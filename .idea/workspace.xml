@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb67b649-b551-4b1e-8093-c1a34a127679" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Blurring/BasicBlurring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Blurring/ImageDenoising.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Blurring/OtherFormsOfBlurring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Blurring/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Blurring/elephant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/DilationAndErosion/Dilation-Erosion-Closing-Opening.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/DilationAndErosion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/DilationAndErosion/test.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/DilationAndErosion/writing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection/EdgeDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection/butterfly.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/ImageManipulations/Cropping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/ImageManipulations/ImagePyramids.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/ImageManipulations/Scaling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/LiveSketching/LiveSketching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/LiveSketching/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Sharpening/BasicSharpening.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Sharpening/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Sharpening/elephant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Thresholding/AdaptiveThresholding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Thresholding/GrayScale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Thresholding/TypesOfThresholding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Thresholding/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection/EdgeDetection.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection/EdgeDetectionCoins.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,19 +29,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/ImageManipulations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection" />
       <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/ImageManipulations" />
       <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Blurring" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection" />
+      <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/LiveSketching" />
       <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/DilationAndErosion" />
       <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Thresholding" />
       <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Sharpening" />
-      <recent name="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -80,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SobelDetection">
+  <component name="RunManager" selected="Python.EdgeDetectionCoins">
     <configuration name="AdaptiveThresholding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UdemyCourseProjectsDeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,27 +79,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BasicSharpening" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UdemyCourseProjectsDeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Sharpening" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/Sharpening/BasicSharpening.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Dilation-Erosion-Closing-Opening" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UdemyCourseProjectsDeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +92,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/DilationAndErosion/Dilation-Erosion-Closing-Opening.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EdgeDetectionCoins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UdemyCourseProjectsDeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/python3.7/OpenCVTutorials/EdgeDetection/EdgeDetectionCoins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EdgeDetectionCoins" />
         <item itemvalue="Python.SobelDetection" />
         <item itemvalue="Python.Dilation-Erosion-Closing-Opening" />
         <item itemvalue="Python.AdaptiveThresholding" />
         <item itemvalue="Python.TypesOfThresholding" />
-        <item itemvalue="Python.BasicSharpening" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592971013119</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Worked On Course">
+      <created>1593121770872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593121770873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +220,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Learned to draw on images" />
     <MESSAGE value="Worked on manipulations to images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked on manipulations to images" />
+    <MESSAGE value="Worked On Course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worked On Course" />
   </component>
 </project>
